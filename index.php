@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
+<?php
+include('traitement.php');
+?>
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,5 +15,6 @@
     <section>
         <h2 class="hd">hamdi</h2>
     </section>
+    <script src="js/code.js"></script>
 </body>
 </html>
